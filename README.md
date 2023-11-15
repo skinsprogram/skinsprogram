@@ -4,5 +4,5 @@
 <ul>
   <li>🌱 I’m currently learning HTML, CSS, Javascript</li>
   <li>🌍 I speak Russian (native), study English</li>
-  <li>📫 How to contact me <a href="skinsprogram@gmail.com">skinsprogram@gmail.com</a></li>
+  <li>📫 How to contact me <a href="mailto:skinsprogram@gmail.com">skinsprogram@gmail.com</a></li>
 </ul>
