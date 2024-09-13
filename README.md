@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Artem and I am a beginner Frontend developer
 Below are my successes in training, work, etc.
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64cfc1ce0d755ccbebe32286?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64cfc1ce0d755ccbebe32286?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
 <!--
 **skinsprogram/skinsprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
