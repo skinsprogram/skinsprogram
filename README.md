@@ -3,7 +3,7 @@ Below are my successes in training, work, etc.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64cfc1ce0d755ccbebe32286?variant=dark" alt="roadmap.sh"/></a>
 
-Below are the statistics of my knowledge after passing the tests on the <a href="https://www.w3schools.com/">W3Schools</a> website.<br>
+Below are the statistics of my knowledge after passing the tests on the <a href="https://www.w3schools.com/" target="_blank">W3Schools</a> website.<br>
 To maintain my knowledge, I will retake the test once a season.<br>
 <p>The data was updated on <time datetime="2024-10-16">16.10.2024</time>.</p>
 
